@@ -1,0 +1,14 @@
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\bin\Debug\net9.0\USFAccessFramework.exe
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\bin\Debug\net9.0\USFAccessFramework.deps.json
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\bin\Debug\net9.0\USFAccessFramework.runtimeconfig.json
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\bin\Debug\net9.0\USFAccessFramework.dll
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\bin\Debug\net9.0\USFAccessFramework.pdb
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.AssemblyInfoInputs.cache
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.AssemblyInfo.cs
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.csproj.CoreCompileInputs.cache
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.dll
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\refint\USFAccessFramework.dll
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.pdb
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\USFAccessFramework.genruntimeconfig.cache
+C:\Users\fengz\OneDrive\桌面\DotNet\USF-Sharp\USFAccessFramework\obj\Debug\net9.0\ref\USFAccessFramework.dll

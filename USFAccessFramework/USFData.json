@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "subjects": {
+      "Math": {
+        "simplified_name": "Mathematics",
+        "teacher": "Mr. Smith",
+        "room": "Room 101"
+      },
+      "English": {
+        "simplified_name": "English",
+        "teacher": "Ms. Johnson",
+        "room": "Room 102"
+      }
+    },
+    "periods": [
+      ["08:00:00", "09:00:00"],
+      ["09:00:00", "10:00:00"],
+      ["10:00:00", "11:00:00"]
+    ],
+    "timetable": [
+      [1, "all", "Math", 1],
+      [2, "all", "English", 2],
+      [2, "all", "Math", 1]
+    ]
+  }
+  
